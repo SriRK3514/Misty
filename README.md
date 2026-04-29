@@ -12,6 +12,6 @@ The release cycle is 2 years per release.
 ## 26 Release:
 This release is built on top of Ubuntu 26.04 LTS.
 ## ***White Leaf***
-Water releases are the beta releases or the releases that are in early development and most likely have the newest kernel.
+White Leaf releases are the beta releases or the releases that are in early development and most likely have the newest kernel. 
 <br>
 The release cycle is 3 months per release.
