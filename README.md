@@ -9,7 +9,7 @@ Misty Community is an open-source community. You can join the community and sugg
 Green Leaf releases are the Stable Releases and are LTS (Long-Term Support). These builds are built on top of Ubuntu LTS releases.
 <br>
 The release cycle is 2 years per release.
-## 26 Release:
+## Misty OS 26:
 This release is built on top of Ubuntu 26.04 LTS.
 ## ***White Leaf***
 White Leaf releases are the beta releases or the releases that are in early development and most likely have the newest kernel. 
