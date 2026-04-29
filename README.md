@@ -5,7 +5,7 @@ If you want any details and specifications or you are having an issue or bug wit
 ## Wanna Join?
 Misty Community is an open-source community. You can join the community and suggest improvements, fix bugs, and even suggest poject ideas. To Join, please email me at srirk3514@gmail.com.
 # Releases
-## **Green Leaf**
+## ***Green Leaf***
 Green Leaf releases are the Stable Releases and are LTS (Long-Term Support). These builds are built on top of Ubuntu LTS releases.
 <br>
 The release cycle is 2 years per release.
