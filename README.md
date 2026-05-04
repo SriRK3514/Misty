@@ -16,10 +16,15 @@ White Leaf releases are the beta releases or the releases that are in early deve
 <br>
 The release cycle is 3 months per release.
 ## ***Dark Leaf***
-Dark Leaf releases are the releases that run in a browser, command line, or a python scrypt. These releass are for niche uses and often exel in a single, unique trait.
+Dark Leaf releases are the releases that run in a browser, command line, or a python scrypt. These releass are for niche uses and often exeles in a single, unique trait.
 <br>
 The release cycle is 1 month per release.
 ## Misty Shell 26:
 This release is a command line tool that you can use to use your computer trough a command line.
 <br>
 This is provied in 4 versions:
+| Version     | Extention | Description                                                                                 | Supported on     |
+| ----------- | --------- | ------------------------------------------------------------------------------------------- | ---------------- |
+| Python      | .py       | This is a python program that is ment to run in python launcher.                            | Universal        |
+| Shell       | .sh       | This is a bash shell script that is ment to run in the terminal.                            | Mac OS, Linux    |
+| Batch       | .bat      | This is a Windows batch script that is ment to run in the Command Prompt or the PowerShell. | Windows          |
