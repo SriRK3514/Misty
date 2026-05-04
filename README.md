@@ -15,3 +15,11 @@ This release is built on top of Ubuntu 26.04 LTS.
 White Leaf releases are the beta releases or the releases that are in early development and most likely have the newest kernel. 
 <br>
 The release cycle is 3 months per release.
+## ***Dark Leaf***
+Dark Leaf releases are the releases that run in a browser, command line, or a python scrypt. These releass are for niche uses and often exel in a single, unique trait.
+<br>
+The release cycle is 1 month per release.
+## Misty Shell 26:
+This release is a command line tool that you can use to use your computer trough a command line.
+<br>
+This is provied in 4 versions:
