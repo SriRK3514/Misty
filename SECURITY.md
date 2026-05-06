@@ -2,9 +2,9 @@
 
 ## Supported Versions
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 26 Green Leaf | :white_check_mark: Until 2032 |
+| Version       | Supported  |
+| ------------- | ---------- |
+| 26 Green Leaf | Until 2032 |
 
 ## Reporting a Vulnerability
 
