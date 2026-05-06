@@ -11,6 +11,18 @@ Green Leaf releases are the Stable Releases and are LTS (Long-Term Support). The
 The release cycle is 2 years per release.
 ## Misty OS 26:
 This release is built on top of Ubuntu 26.04 LTS.
+<br>
+These are the applications that will be included with Misty OS 26:
+| Purpose      | App                                  |
+| ------------ | ------------------------------------ |
+| Web          | Firefox                              |
+| Email        | Thunderbird                          |
+| Files        | Nautils                              |
+| Office       | Papers, LiberOffice                  |
+| Media        | Loupe, Showtime, VLC                 |
+| Tasks        | Resources                            |
+| Terminal     | Ptyxis                               |
+| Image Editor | GNU Image Minipulation Program (GIMP)|
 ## ***White Leaf***
 White Leaf releases are the beta releases or the releases that are in early development and most likely have the newest kernel. 
 <br>
